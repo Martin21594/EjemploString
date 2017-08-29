@@ -55,7 +55,8 @@ public class EjemploString2 {
              System.out.println(cadena3.indexOf("Java"));
              //muestra la posicion donde empezo la palabra java en numero.
              
-             
+             System.out.println(cadena3.length());
+             //cantidad de palabras que hay en la variable.
              
              
         
