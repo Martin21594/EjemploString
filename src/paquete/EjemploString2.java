@@ -15,10 +15,10 @@ public class EjemploString2 {
        public static void main(String[] args) {
         String cadena="Automovil";
         
-        char letra1=cadena.charAt(0);
+        char letra1=cadena.charAt(0); //indica la posicion que va a mostar 
         char letra2=cadena.charAt(2);
         char letra3=cadena.charAt(5);
-        System.out.println(letra1);
+        System.out.println(letra1);//informa la posicion del String
         System.out.println(letra2);
         System.out.println(letra3);
     }
